@@ -1,10 +1,10 @@
-# Lá & Hạt · shop-web
+# Lá & Hạt - shop-web
 
 > **Tiếng Việt:** Giao diện cửa hàng trà và cà phê Lá & Hạt, viết bằng React và TypeScript. Khách xem sản phẩm, lọc theo danh mục và giá, đăng ký, thêm vào giỏ, đặt hàng rồi chuyển khoản bằng mã VietQR. Chủ shop có trang quản trị để xác nhận tiền về và cập nhật trạng thái đơn. Máy chủ là [shop-api](https://github.com/giangggvu/shop-api) (Java Spring Boot).
 
 Storefront for Lá & Hạt, a small online tea and coffee shop. It is the front end for [shop-api](https://github.com/giangggvu/shop-api).
 
-**Live demo:** _add your Vercel link here_ · **API:** https://shop-api-ncx0.onrender.com
+**Live demo:** https://shop-web-gamma-five.vercel.app/ · **API:** https://shop-api-ncx0.onrender.com
 
 > The API runs on a free instance that sleeps when idle. The first request after a while can take up to a minute; the site shows a notice while it wakes up.
 
